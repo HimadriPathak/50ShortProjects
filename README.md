@@ -1,6 +1,6 @@
 # 50 Short HTML/CSS/JavaScript Projects
 
-- [ X ] 01 Expanding Cards
+- [X] 01 Expanding Cards
 - [ ] 02 Progress Steps
 - [ ] 03 Rotating Navigation Animation
 - [ ] 04 Hidden Search Widget
