@@ -3,7 +3,7 @@
 - [x] 01 Expanding Cards
 - [x] 02 Progress Steps
 - [x] 03 Rotating Navigation Animation
-- [ ] 04 Hidden Search Widget
+- [x] 04 Hidden Search Widget
 - [ ] 05 Blurry Loading
 - [ ] 06 Scroll Animation
 - [ ] 07 Split Landing Page
