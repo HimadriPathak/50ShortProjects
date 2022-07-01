@@ -5,7 +5,7 @@
 - [x] 03 Rotating Navigation Animation
 - [x] 04 Hidden Search Widget
 - [x] 05 Blurry Loading
-- [ ] 06 Scroll Animation
+- [x] 06 Scroll Animation
 - [ ] 07 Split Landing Page
 - [ ] 08 Form Wave
 - [ ] 09 Sound Board
