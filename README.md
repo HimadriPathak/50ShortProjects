@@ -7,7 +7,7 @@
 - [x] 05 Blurry Loading
 - [x] 06 Scroll Animation
 - [x] 07 Split Landing Page
-- [ ] 08 Form Wave
+- [x] 08 Form Wave
 - [ ] 09 Sound Board
 - [ ] 10 Dad Jokes
 - [ ] 11 Event Keycodes
