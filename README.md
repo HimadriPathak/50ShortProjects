@@ -9,7 +9,7 @@
 - [x] 07 Split Landing Page
 - [x] 08 Form Wave
 - [x] 09 Sound Board
-- [ ] 10 Dad Jokes
+- [x] 10 Dad Jokes
 - [ ] 11 Event Keycodes
 - [ ] 12 Faq Collapse
 - [ ] 13 Random Choice Picker
