@@ -12,7 +12,7 @@
 - [x] 10 Dad Jokes
 - [x] 11 Event Keycodes
 - [x] 12 Faq Collapse
-- [ ] 13 Random Choice Picker
+- [x] 13 Random Choice Picker
 - [ ] 14 Animated Navigation
 - [ ] 15 Incrementing Counter
 - [ ] 16 Drink Water
