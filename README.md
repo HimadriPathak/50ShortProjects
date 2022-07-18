@@ -22,7 +22,7 @@
 - [x] 20 Button Ripple Effect
 - [x] 21 Drag N Drop
 - [x] 22 Drawing App
-- [ ] 23 Kinetic Loader
+- [x] 23 Kinetic Loader
 - [ ] 24 Content Placeholder
 - [ ] 25 Sticky Navbar
 - [ ] 26 Double Vertical Slider
