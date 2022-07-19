@@ -23,7 +23,7 @@
 - [x] 21 Drag N Drop
 - [x] 22 Drawing App
 - [x] 23 Kinetic Loader
-- [ ] 24 Content Placeholder
+- [x] 24 Content Placeholder
 - [ ] 25 Sticky Navbar
 - [ ] 26 Double Vertical Slider
 - [ ] 27 Toast Notification
