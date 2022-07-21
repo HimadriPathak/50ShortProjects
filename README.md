@@ -25,7 +25,7 @@
 - [x] 23 Kinetic Loader
 - [x] 24 Content Placeholder
 - [x] 25 Sticky Navbar
-- [ ] 26 Double Vertical Slider
+- [x] 26 Double Vertical Slider
 - [ ] 27 Toast Notification
 - [ ] 28 Github Profiles
 - [ ] 29 Double Click Heart
