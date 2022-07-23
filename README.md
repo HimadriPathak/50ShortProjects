@@ -27,7 +27,7 @@
 - [x] 25 Sticky Navbar
 - [x] 26 Double Vertical Slider
 - [x] 27 Toast Notification
-- [ ] 28 Github Profiles
+- [x] 28 Github Profiles
 - [ ] 29 Double Click Heart
 - [ ] 30 Auto Text Effect
 - [ ] 31 Password Generator
