@@ -30,7 +30,7 @@
 - [x] 28 Github Profiles
 - [x] 29 Double Click Heart
 - [x] 30 Auto Text Effect
-- [ ] 31 Password Generator
+- [x] 31 Password Generator
 - [ ] 32 Good Cheap Fast
 - [ ] 33 Notes App
 - [ ] 34 Animated Countdown
