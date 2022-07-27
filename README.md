@@ -31,7 +31,7 @@
 - [x] 29 Double Click Heart
 - [x] 30 Auto Text Effect
 - [x] 31 Password Generator
-- [ ] 32 Good Cheap Fast
+- [x] 32 Good Cheap Fast
 - [ ] 33 Notes App
 - [ ] 34 Animated Countdown
 - [ ] 35 Image Carousel
