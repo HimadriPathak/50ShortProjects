@@ -32,7 +32,7 @@
 - [x] 30 Auto Text Effect
 - [x] 31 Password Generator
 - [x] 32 Good Cheap Fast
-- [ ] 33 Notes App
+- [x] 33 Notes App
 - [ ] 34 Animated Countdown
 - [ ] 35 Image Carousel
 - [ ] 36 Hoverboard
