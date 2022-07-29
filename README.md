@@ -33,7 +33,7 @@
 - [x] 31 Password Generator
 - [x] 32 Good Cheap Fast
 - [x] 33 Notes App
-- [ ] 34 Animated Countdown
+- [x] 34 Animated Countdown
 - [ ] 35 Image Carousel
 - [ ] 36 Hoverboard
 - [ ] 37 Pokedex
