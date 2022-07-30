@@ -34,7 +34,7 @@
 - [x] 32 Good Cheap Fast
 - [x] 33 Notes App
 - [x] 34 Animated Countdown
-- [ ] 35 Image Carousel
+- [x] 35 Image Carousel
 - [ ] 36 Hoverboard
 - [ ] 37 Pokedex
 - [ ] 38 Mobile Tab Navigation
