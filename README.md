@@ -35,7 +35,7 @@
 - [x] 33 Notes App
 - [x] 34 Animated Countdown
 - [x] 35 Image Carousel
-- [ ] 36 Hoverboard
+- [x] 36 Hoverboard
 - [ ] 37 Pokedex
 - [ ] 38 Mobile Tab Navigation
 - [ ] 39 Password Strength Background
