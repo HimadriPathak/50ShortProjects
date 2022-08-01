@@ -47,7 +47,7 @@
 - [ ] 45 Netflix Mobile Navigation
 - [ ] 46 Quiz App
 - [ ] 47 Testimonial Box Switcher
-- [ ] 48 Random Image Feed
+- [x] 48 Random Image Feed
 - [ ] 49 Todo List
 - [ ] 50 Insect Catch Game
 
