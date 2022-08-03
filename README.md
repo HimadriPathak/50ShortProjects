@@ -36,7 +36,7 @@
 - [x] 34 Animated Countdown
 - [x] 35 Image Carousel
 - [x] 36 Hoverboard
-- [ ] 37 Pokedex
+- [x] 37 Pokedex
 - [x] 38 Mobile Tab Navigation
 - [ ] 39 Password Strength Background
 - [ ] 40 3d Background Boxes
