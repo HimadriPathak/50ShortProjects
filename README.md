@@ -46,7 +46,7 @@
 - [x] 44 Custom Range Slider
 - [x] 45 Mobile Navigation
 - [ ] 46 Quiz App
-- [ ] 47 Testimonial Box Switcher
+- [x] 47 Testimonial Box Switcher
 - [x] 48 Random Image Feed
 - [ ] 49 Todo List
 - [ ] 50 Insect Catch Game
