@@ -45,7 +45,7 @@
 - [x] 43 Feedback Ui Design
 - [x] 44 Custom Range Slider
 - [x] 45 Mobile Navigation
-- [ ] 46 Quiz App
+- [x] 46 Quiz App
 - [x] 47 Testimonial Box Switcher
 - [x] 48 Random Image Feed
 - [ ] 49 Todo List
