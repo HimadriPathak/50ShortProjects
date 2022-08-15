@@ -48,7 +48,7 @@
 - [x] 46 Quiz App
 - [x] 47 Testimonial Box Switcher
 - [x] 48 Random Image Feed
-- [ ] 49 Todo List
+- [x] 49 Todo List
 - [ ] 50 Insect Catch Game
 
 It is inspired by
