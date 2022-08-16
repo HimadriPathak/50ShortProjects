@@ -49,7 +49,7 @@
 - [x] 47 Testimonial Box Switcher
 - [x] 48 Random Image Feed
 - [x] 49 Todo List
-- [ ] 50 Insect Catch Game
+- [x] 50 Insect Catch Game
 
 It is inspired by
 
